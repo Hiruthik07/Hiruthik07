@@ -1,12 +1,15 @@
-[README (1).md](https://github.com/user-attachments/files/30495531/README.1.md)
-<div align="center">
+Here’s a fully customized version of the README tailored to **you (Hiruthik A)**. I’ve updated the name, role, interests, focus areas, and tone while keeping the strong cybersecurity aesthetic you liked.
 
+Just replace `YOUR_USERNAME` with your actual GitHub username, and fill in the real links (LinkedIn, TryHackMe, etc.).
+
+```markdown
+<div align="center">
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=whoami%20%3D%3D%20Security%20Engineer&fontSize=32&fontColor=39ff14&animation=fadeIn&fontAlignY=38&desc=Third-Year%20Cybersecurity%20Student%20%7C%20Blue%20Team%20by%20day%2C%20Red%20Team%20by%20night&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=whoami%20%3D%3D%20Hiruthik%20A&fontSize=32&fontColor=39ff14&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Cyber%20Security%20Engineering%20Student%20%7C%20Ethical%20Hacker%20%7C%20Python%20%26%20DevOps%20Enthusiast&descAlignY=58&descSize=15" width="100%"/>
 
 <!-- Typing animation -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=%241+sudo+access-granted+--user%3Dvisitor;%242+decrypting_purpose...+%5BOK%5D;%243+loading_skills.sh+--verbose;%244+status%3A+always_learning+%F0%9F%94%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=%241+sudo+access-granted+--user%3Dvisitor;%242+decrypting_purpose...+%5BOK%5D;%243+loading_skills.sh+--verbose;%244+status%3A+always_learning+%F0%9F%94%93;%245+focus%3A+secure_coding+%7C+automation+%7C+networking" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,7 +19,6 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme&logoColor=red)](#)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](#)
 [![CTFtime](https://img.shields.io/badge/CTFtime-Team-181717?style=flat-square&logo=ctf&logoColor=white)](#)
-
 </div>
 
 ---
@@ -24,12 +26,12 @@
 ### `> cat about_me.txt`
 
 ```yaml
-name:          Your Name
-role:          Cybersecurity Student (Year 3) | Aspiring SOC Analyst / Pentester
-location:      /home/earth
-current_focus: [Network Security, Web App Pentesting, Digital Forensics, Malware Analysis]
-learning:      [Cloud Security (AWS/Azure), Reverse Engineering, Purple Teaming]
-fun_fact:      "I break things to learn how to build them safer."
+name: Hiruthik A
+role: B.Tech Cyber Security Engineering Student | Aspiring Security Engineer
+location: /home/earth
+current_focus: [Cybersecurity, Ethical Hacking, Networking, Secure Coding]
+learning: [Python Automation, DevOps, Cloud Security, Detection Engineering]
+fun_fact: "I break things to understand how to make them unbreakable."
 ```
 
 <table>
@@ -38,26 +40,28 @@ fun_fact:      "I break things to learn how to build them safer."
 
 ### 🎯 Mission Briefing
 
-I'm a third-year Cybersecurity student obsessed with the offense-defense duality of security — I spend my mornings hardening systems and my nights breaking into intentionally vulnerable ones. My goal is to become a well-rounded security engineer who understands infrastructure, code, and adversary behavior equally well.
+I'm Hiruthik A, a B.Tech Cyber Security Engineering student passionate about the complete security lifecycle — from ethical hacking and networking to secure coding, automation, and modern DevOps practices.
 
-- 🔐 Currently deep in **Offensive Security fundamentals** and **SOC operations**
-- 🧠 Actively solving boxes on **HackTheBox / TryHackMe** and competing in **CTFs**
-- 🛠️ Building home-lab projects around **detection engineering** and **network defense**
-- 📡 Interested in **Threat Intelligence**, **Malware Analysis**, and **Cloud Security**
-- 🎓 Pursuing certifications: `CompTIA Security+` → `eJPT` → `OSCP` (roadmap)
+I love learning by building and breaking things in controlled environments. My goal is to become a well-rounded security professional who understands both offensive techniques and defensive engineering.
+
+- 🔐 Currently strengthening skills in **Ethical Hacking**, **Networking**, and **Secure Coding**
+- 🧠 Actively practicing on **TryHackMe / HackTheBox** and participating in **CTFs**
+- 🛠️ Building hands-on projects around **automation**, **cybersecurity tools**, and **DevOps**
+- 📡 Exploring **Threat Intelligence**, **Network Defense**, and **Cloud Security**
+- 🎓 Certification roadmap: `CompTIA Security+` → `eJPT` → `OSCP`
 
 </td>
 <td width="40%" valign="top">
 
 ```
-┌─────────────────────────┐
-│   THREAT MODEL: SELF     │
-├─────────────────────────┤
-│ Asset:      Curiosity    │
-│ Vector:     Late nights  │
-│ Mitigation: More coffee  │
-│ Status:     UNPATCHED ☕ │
-└─────────────────────────┘
+┌─────────────────────────────┐
+│   THREAT MODEL: SELF        │
+├─────────────────────────────┤
+│ Asset: Curiosity            │
+│ Vector: Late-night labs     │
+│ Mitigation: More coffee ☕  │
+│ Status: UNPATCHED           │
+└─────────────────────────────┘
 ```
 
 </td>
@@ -106,20 +110,18 @@ I'm a third-year Cybersecurity student obsessed with the offense-defense duality
 <td width="50%">
 
 ### 🕸️ Network Intrusion Detection Lab
-Built a home SOC lab simulating enterprise traffic with **Suricata** + **ELK Stack** for real-time alerting and log correlation. Detects port scans, brute-force attempts, and C2 beaconing patterns.
+Built a home SOC-style lab using **Suricata** + **ELK Stack** for real-time detection of port scans, brute-force attempts, and suspicious traffic patterns.
 
-`Python` `Suricata` `ELK` `Docker`
-
+`Python` `Suricata` `ELK` `Docker`  
 [**View Repo →**](#) &nbsp;|&nbsp; [**Write-up →**](#)
 
 </td>
 <td width="50%">
 
 ### 🐍 Automated Recon Framework
-A modular Python tool that chains **Nmap**, **Subfinder**, and **Nikto** for automated attack-surface mapping, producing a clean HTML report per target.
+A modular Python tool that chains **Nmap**, **Subfinder**, and **Nikto** for automated attack-surface mapping and generates clean HTML reports.
 
-`Python` `Bash` `Recon-ng` `Regex`
-
+`Python` `Bash` `Recon` `Regex`  
 [**View Repo →**](#) &nbsp;|&nbsp; [**Write-up →**](#)
 
 </td>
@@ -127,21 +129,19 @@ A modular Python tool that chains **Nmap**, **Subfinder**, and **Nikto** for aut
 <tr>
 <td width="50%">
 
-### 🔓 Vulnerable Web App (DVWA-style)
-Designed and deployed an intentionally vulnerable Flask application (SQLi, XSS, IDOR, broken auth) used as a training range for peers in the campus security club.
+### 🔓 Intentionally Vulnerable Web App
+Designed a Flask-based vulnerable application (SQLi, XSS, IDOR, broken authentication) used as a training range for peers.
 
-`Flask` `SQLite` `OWASP Top 10`
-
+`Flask` `SQLite` `OWASP Top 10`  
 [**View Repo →**](#) &nbsp;|&nbsp; [**Write-up →**](#)
 
 </td>
 <td width="50%">
 
-### 🧬 Malware Sandbox & Static Analyzer
-A Python-based static analysis tool that extracts PE headers, strings, and entropy scores to flag suspicious binaries before dynamic detonation in an isolated VM.
+### 🧬 Static Malware Analyzer
+Python tool that extracts PE headers, strings, and entropy scores to flag suspicious binaries before dynamic analysis.
 
-`Python` `pefile` `YARA` `Cuckoo`
-
+`Python` `pefile` `YARA`  
 [**View Repo →**](#) &nbsp;|&nbsp; [**Write-up →**](#)
 
 </td>
@@ -154,12 +154,12 @@ A Python-based static analysis tool that extracts PE headers, strings, and entro
 
 <div align="center">
 
-| Platform | Rank / Stats | Focus Area |
-|:--------:|:------------:|:-----------|
-| **TryHackMe** | Top X% \| XX Rooms | Web Exploitation, Privilege Escalation |
-| **HackTheBox** | Hacker Rank | Active Directory, Linux/Windows PrivEsc |
-| **CTFtime** | Team: `your_team` | Web, Crypto, Forensics |
-| **PicoCTF** | XX Challenges Solved | Binary Exploitation, Reverse Engineering |
+| Platform     | Rank / Stats          | Focus Area                          |
+|:------------:|:---------------------:|:------------------------------------|
+| **TryHackMe**   | Top X% \| XX Rooms   | Web Exploitation, PrivEsc          |
+| **HackTheBox**  | Hacker Rank          | Linux/Windows PrivEsc, AD          |
+| **CTFtime**     | Team: `your_team`    | Web, Crypto, Forensics             |
+| **PicoCTF**     | XX Challenges        | Binary Exploitation, Reverse Eng.  |
 
 </div>
 
@@ -170,9 +170,8 @@ A Python-based static analysis tool that extracts PE headers, strings, and entro
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9"/>
-
+<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff"/>
 </div>
 
@@ -182,12 +181,12 @@ A Python-based static analysis tool that extracts PE headers, strings, and entro
 
 ```mermaid
 graph LR
-    A[Security+ ✅] --> B[eJPT 🔄]
-    B --> C[Home Lab Projects 🔄]
+    A[Security+ 🔄] --> B[eJPT 📌]
+    B --> C[Home Lab + Automation Projects 🔄]
     C --> D[OSCP 📌]
-    D --> E[SOC Analyst / Pentest Internship 📌]
-    style A fill:#39ff14,stroke:#000,color:#000
-    style B fill:#f1c40f,stroke:#000,color:#000
+    D --> E[Security Engineer / SOC / Pentest Role 📌]
+    style A fill:#f1c40f,stroke:#000,color:#000
+    style B fill:#2c3e50,stroke:#39ff14,color:#fff
     style C fill:#f1c40f,stroke:#000,color:#000
     style D fill:#2c3e50,stroke:#39ff14,color:#fff
     style E fill:#2c3e50,stroke:#39ff14,color:#fff
@@ -211,3 +210,13 @@ graph LR
 **`> connection closed. session logged. stay curious.`**
 
 </div>
+```
+
+### Quick next steps for you:
+1. Replace every `YOUR_USERNAME` with your real GitHub username.
+2. Update the badge links (LinkedIn, TryHackMe, HackTheBox, email, etc.).
+3. Replace the project descriptions with your real projects (or keep these as placeholders until you build them).
+4. Update the CTF stats table with your actual numbers.
+5. Change the certification roadmap status if you’ve already completed any.
+
+Would you like me to make any further changes (more DevOps focus, different colors, add more projects, change the year, etc.)?
