@@ -1,15 +1,11 @@
-Here’s a fully customized version of the README tailored to **you (Hiruthik A)**. I’ve updated the name, role, interests, focus areas, and tone while keeping the strong cybersecurity aesthetic you liked.
-
-Just replace `YOUR_USERNAME` with your actual GitHub username, and fill in the real links (LinkedIn, TryHackMe, etc.).
-
-```markdown
 <div align="center">
+
 <!-- Animated header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=whoami%20%3D%3D%20Hiruthik%20A&fontSize=32&fontColor=39ff14&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Cyber%20Security%20Engineering%20Student%20%7C%20Ethical%20Hacker%20%7C%20Python%20%26%20DevOps%20Enthusiast&descAlignY=58&descSize=15" width="100%"/>
 
 <!-- Typing animation -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=%241+sudo+access-granted+--user%3Dvisitor;%242+decrypting_purpose...+%5BOK%5D;%243+loading_skills.sh+--verbose;%244+status%3A+always_learning+%F0%9F%94%93;%245+focus%3A+secure_coding+%7C+automation+%7C+networking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=%241+sudo+access-granted+--user%3Dvisitor;%242+decrypting_purpose...+%5BOK%5D;%243+loading_skills.sh+--verbose;%244+status%3A+always_learning;%245+focus%3A+secure_coding+%7C+automation+%7C+networking" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,7 +14,8 @@ Just replace `YOUR_USERNAME` with your actual GitHub username, and fill in the r
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme&logoColor=red)](#)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](#)
-[![CTFtime](https://img.shields.io/badge/CTFtime-Team-181717?style=flat-square&logo=ctf&logoColor=white)](#)
+[![CTFtime](https://img.shields.io/badge/CTFtime-Team-181717?style=flat-square)](#)
+
 </div>
 
 ---
@@ -40,7 +37,7 @@ fun_fact: "I break things to understand how to make them unbreakable."
 
 ### 🎯 Mission Briefing
 
-I'm Hiruthik A, a B.Tech Cyber Security Engineering student passionate about the complete security lifecycle — from ethical hacking and networking to secure coding, automation, and modern DevOps practices.
+I'm Hiruthik A, a B.Tech Cyber Security Engineering student passionate about the complete security lifecycle: from ethical hacking and networking to secure coding, automation, and modern DevOps practices.
 
 I love learning by building and breaking things in controlled environments. My goal is to become a well-rounded security professional who understands both offensive techniques and defensive engineering.
 
@@ -53,15 +50,15 @@ I love learning by building and breaking things in controlled environments. My g
 </td>
 <td width="40%" valign="top">
 
-```
-┌─────────────────────────────┐
-│   THREAT MODEL: SELF        │
-├─────────────────────────────┤
-│ Asset: Curiosity            │
-│ Vector: Late-night labs     │
-│ Mitigation: More coffee ☕  │
-│ Status: UNPATCHED           │
-└─────────────────────────────┘
+```text
++-----------------------------+
+|   THREAT MODEL: SELF        |
++-----------------------------+
+| Asset: Curiosity            |
+| Vector: Late-night labs     |
+| Mitigation: More coffee     |
+| Status: UNPATCHED           |
++-----------------------------+
 ```
 
 </td>
@@ -154,12 +151,12 @@ Python tool that extracts PE headers, strings, and entropy scores to flag suspic
 
 <div align="center">
 
-| Platform     | Rank / Stats          | Focus Area                          |
-|:------------:|:---------------------:|:------------------------------------|
-| **TryHackMe**   | Top X% \| XX Rooms   | Web Exploitation, PrivEsc          |
-| **HackTheBox**  | Hacker Rank          | Linux/Windows PrivEsc, AD          |
-| **CTFtime**     | Team: `your_team`    | Web, Crypto, Forensics             |
-| **PicoCTF**     | XX Challenges        | Binary Exploitation, Reverse Eng.  |
+| Platform | Rank / Stats | Focus Area |
+|:--------:|:------------:|:-----------|
+| **TryHackMe** | Top X% / XX Rooms | Web Exploitation, PrivEsc |
+| **HackTheBox** | Hacker Rank | Linux/Windows PrivEsc, AD |
+| **CTFtime** | Team: `your_team` | Web, Crypto, Forensics |
+| **PicoCTF** | XX Challenges | Binary Exploitation, Reverse Eng. |
 
 </div>
 
@@ -168,11 +165,15 @@ Python tool that extracts PE headers, strings, and entropy scores to flag suspic
 ## 📊 Signal Intelligence (GitHub Stats)
 
 <div align="center">
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9"/>
+
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14"/>
+
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff"/>
+
 </div>
 
 ---
@@ -181,10 +182,10 @@ Python tool that extracts PE headers, strings, and entropy scores to flag suspic
 
 ```mermaid
 graph LR
-    A[Security+ 🔄] --> B[eJPT 📌]
-    B --> C[Home Lab + Automation Projects 🔄]
-    C --> D[OSCP 📌]
-    D --> E[Security Engineer / SOC / Pentest Role 📌]
+    A[Security+ - in progress] --> B[eJPT - planned]
+    B --> C[Home Lab + Automation Projects - in progress]
+    C --> D[OSCP - planned]
+    D --> E[Security Engineer / SOC / Pentest Role - planned]
     style A fill:#f1c40f,stroke:#000,color:#000
     style B fill:#2c3e50,stroke:#39ff14,color:#fff
     style C fill:#f1c40f,stroke:#000,color:#000
@@ -210,13 +211,3 @@ graph LR
 **`> connection closed. session logged. stay curious.`**
 
 </div>
-```
-
-### Quick next steps for you:
-1. Replace every `YOUR_USERNAME` with your real GitHub username.
-2. Update the badge links (LinkedIn, TryHackMe, HackTheBox, email, etc.).
-3. Replace the project descriptions with your real projects (or keep these as placeholders until you build them).
-4. Update the CTF stats table with your actual numbers.
-5. Change the certification roadmap status if you’ve already completed any.
-
-Would you like me to make any further changes (more DevOps focus, different colors, add more projects, change the year, etc.)?
